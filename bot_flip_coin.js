@@ -36,7 +36,7 @@ var valor2 = 0.1; //Valor repesentativo da aposta no caso 10 centavos
   console.log(data);
   console.log(cash);
 
-  cash2 = 0;
+  var cash2 = 0;
   
 
   
